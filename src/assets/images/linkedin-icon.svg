@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="799b5010-c63e-4fd0-933f-f2c20209b60b"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="eaa17d08-7146-472c-81e3-8fcde3dddb05"  >
+</g>
+<g transform="matrix(25.12 0 0 25.12 540 540)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0.04)" clip-path="url(#CLIPPATH_3)"  >
+<clipPath id="CLIPPATH_3" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0_66_80" x="-21.5" y="-21.45435" rx="0" ry="0" width="43" height="42.9087" />
+</clipPath>
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,106,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-21.5" y="-21.45435" rx="0" ry="0" width="43" height="42.9087" />
+</g>
+		<g transform="matrix(1 0 0 1 0 0.04)" clip-path="url(#CLIPPATH_4)"  >
+<clipPath id="CLIPPATH_4" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0_66_80" x="-21.5" y="-21.45435" rx="0" ry="0" width="43" height="42.9087" />
+</clipPath>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-21.5, -22.04)" d="M 39.817 0.587158 L 3.17461 0.587158 C 1.41934 0.587158 0 1.96996 0 3.6796 L 0 40.3951 C 0 42.1047 1.41934 43.4959 3.17461 43.4959 L 39.817 43.4959 C 41.5723 43.4959 43 42.1047 43 40.4034 L 43 3.6796 C 43 1.96996 41.5723 0.587158 39.817 0.587158 Z M 12.7572 37.1518 L 6.37441 37.1518 L 6.37441 16.6695 L 12.7572 16.6695 L 12.7572 37.1518 Z M 9.56582 13.8788 C 7.5166 13.8788 5.86211 12.2278 5.86211 10.1913 C 5.86211 8.15485 7.5166 6.50387 9.56582 6.50387 C 11.6066 6.50387 13.2611 8.15485 13.2611 10.1913 C 13.2611 12.2194 11.6066 13.8788 9.56582 13.8788 Z M 36.6424 37.1518 L 30.268 37.1518 L 30.268 27.1956 C 30.268 24.8239 30.226 21.765 26.9506 21.765 C 23.6332 21.765 23.1293 24.3546 23.1293 27.028 L 23.1293 37.1518 L 16.7633 37.1518 L 16.7633 16.6695 L 22.8773 16.6695 L 22.8773 19.4687 L 22.9613 19.4687 C 23.8096 17.8596 25.8924 16.1583 28.9914 16.1583 C 35.4498 16.1583 36.6424 20.3989 36.6424 25.9134 L 36.6424 37.1518 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
