@@ -1,67 +1,23 @@
-# Masala Marvel Restaurant Website
+TurkMut - Traditional Turkish Cuisine Menu
+A modern restaurant menu website built with Vue.js
 
-Welcome to the **Masala Marvel** project repository! This is a dynamic and visually engaging website created using **Vue.js** to showcase the vibrant essence of Indian cuisine through an immersive online platform.
+TurkMut is a stylish and responsive web application showcasing traditional Turkish dishes from various regions of the country. Built using Vue.js, it offers a smooth and modern user experience tailored for restaurant menus.
 
----
+🚀 Features
+📱 Responsive design for all devices
 
-## Project Overview
-Masala Marvel is a responsive, user-friendly restaurant website designed to:
-- Highlight the richness of Indian cuisine.
-- Provide a seamless user experience for browsing and booking.
-- Serve as a virtual gateway to the Masala Marvel restaurant.
+🍽️ Categorized food menu
 
-This project leverages **Vue.js** for a dynamic front-end experience, ensuring smooth navigation and interactivity.
+🌍 Focus on authentic and regional Turkish recipes
 
----
+🎨 Clean, modern, and user-friendly interface
 
-## Key Features
+🧭 Built with Vue.js component-based architecture
 
-### Home Page
-- A visually appealing landing page introducing the restaurant.
+🛠️ Tech Stack
+Vue.js
 
-### User-Friendly Navigation
-- Easy-to-use navigation bar to explore different sections of the website.
+![a1](https://github.com/user-attachments/assets/add088ae-f7df-49c7-9b65-ba50597a8e04)
 
-### Indian Cuisine Showcase
-- A dedicated section featuring rich details and captivating images of Masala Marvel’s dishes.
 
-### Restaurant Information
-- Insights about Masala Marvel, including its story and vision.
 
-### Online Booking
-- Users can conveniently book tables and explore dining packages.
-
-### Contact Section
-- Provides essential contact information to connect with the restaurant.
-
-### Mobile-Friendly Design
-- Fully responsive layout for an optimal experience on all devices.
-
----
-
-## Technologies Used
-- **Vue.js**: For building a dynamic, component-based front-end.
-- **HTML5**: For structuring content.
-- **CSS3**: For styling and ensuring responsiveness.
-- **JavaScript**: For enhancing interactivity and functionality.
-
----
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dhanush-S-Gowda/masala-marvel-restaurant-website.git
-   ```
-2. Navigate to the project directory:
-  ```bash
-  cd masala-marvel
-  ```
-3. Install dependencies:
-  ```bash
-  npm install
-  ```
-4. Start the development server:
-  ```bash
-  npm run serve
-  ```
-5. Access the website at http://localhost:8080.
